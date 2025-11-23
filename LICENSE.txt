@@ -1,0 +1,34 @@
+Custom License
+Copyright (c) 2025 Bartosz Moczulski
+
+This work is made publicly available for educational purposes under the following terms:
+
+1. PERMITTED USE
+   You may view, download, and study the presentation materials and code for personal
+   educational purposes.
+
+2. ATTRIBUTION
+   Any reference to this work must clearly attribute it to:
+   Bartosz Moczulski, "Once Upon a Thread in the Mutex: The Road to synchronized_value and Why It Matters"
+
+3. RESTRICTIONS
+   The following uses are expressly prohibited without prior written permission:
+
+   a) Copying, reproducing, adapting, or redistributing any portion of this material
+   b) Using any part of this material in public presentations, lectures, videos, or
+      courses (online or offline)
+   c) Removing this license or any attribution notices
+   d) Using code examples in production systems
+   e) Presenting any portion of this work as original work
+
+4. CODE EXAMPLES
+   All code in this repository is provided solely for educational demonstration.
+   Code examples may intentionally contain bugs, anti-patterns, or unsafe practices
+   to illustrate threading concepts. Do not use in production systems.
+
+5. DISCLAIMER
+   This material is provided "as is" without warranty of any kind, express or implied.
+
+All rights not expressly granted herein are reserved.
+
+For permission requests, contact: moczulski@gmail.com
